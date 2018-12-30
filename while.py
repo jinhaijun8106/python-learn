@@ -9,3 +9,4 @@ while 1:
     else:
         print("the num is smaller");
 print("done", guess, num);
+print("done, added in mainline", guess, num);
