@@ -8,3 +8,4 @@ else:
     print("the num is smaller");
 
 print("done", guess, num);
+print("done, add for test1 2nd", guess, num);
